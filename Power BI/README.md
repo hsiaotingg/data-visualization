@@ -3,8 +3,8 @@
 1.請針對兩事業處營收進行分析<br>
 2.請針對採購補貨給予建議<br>
 <br>
-### 以下搭配圖表作分析說明<br>
-針對第一題營收分析：<br>
+以下搭配圖表作分析說明<br>
+### 1.請針對兩事業處營收進行分析：<br>
 圖1.1
 ![image](https://github.com/hsiaotingg/data-visualization/blob/main/Power%20BI/1-1.png)
 <br>
@@ -21,3 +21,11 @@ Power BI有一個摘要的功能，可以根據點選的圖表去幫助使用者
 <br>
 下排的圖表可以讓使用者快速了解各事業處門店的營運地點，以及平假日的交易量佔比，可提供給品牌事業發展處及行銷部門規劃活動參考。<br>
 總結來說，SA交易量高於TA，但兩家來客數均有下降的趨勢。
+<br>
+<br>
+### 2.請針對採購補貨給予建議
+圖2.1
+![image](https://github.com/hsiaotingg/data-visualization/blob/main/Power%20BI/2.png)
+<br>
+圖2.2
+![image](https://github.com/hsiaotingg/data-visualization/blob/main/Power%20BI/2-2.png)
