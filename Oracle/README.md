@@ -33,6 +33,6 @@ Oracle Analytics 這部分老師並未授課教學使用，僅提供資料讓學
 ![image](https://github.com/hsiaotingg/data-visualization/blob/main/Oracle/location-1.png)
 圖6
 ![image](https://github.com/hsiaotingg/data-visualization/blob/main/Oracle/map.png)
-透過圖6的地圖可以看出該公司服務據點主要分布在北美五大湖工業區附近7個州(伊利諾州、印第安納州、肯塔基州、密西根州、俄亥俄州、賓夕法尼亞州、威斯康辛州)，根據圖5可知俄亥俄州的員工人數是最多的，所以可能是總部或是主要服務重心。五大湖工業區是美國商業、金融與工業中心重鎮，更能印證該公司可能是提供財會相關的資訊服務。因為是經濟高度發展區，故人口的種族組成較多元，但仍是以白人為主，詳圖7。<br>
+透過圖6的地圖可以看出該公司服務據點主要分布在北美五大湖工業區附近7個州(伊利諾州、印第安納州、肯塔基州、密西根州、俄亥俄州、賓夕法尼亞州、威斯康辛州)，在使用上一樣可以依使用者需求搭配篩選器，根據圖5可知俄亥俄州的員工人數是最多的，可能是總部或是主要服務重心。五大湖工業區是美國商業、金融與工業中心重鎮，更能印證該公司可能是提供財會相關的資訊服務。因為是經濟高度發展區，故人口的種族組成較多元，但仍是以白人為主，詳圖7。<br>
 圖7
 ![image](https://github.com/hsiaotingg/data-visualization/blob/main/Oracle/location-2.png)
