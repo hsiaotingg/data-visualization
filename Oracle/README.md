@@ -7,7 +7,7 @@ Oracle Analytics 這部分老師並未授課教學使用，僅提供資料讓學
 <br>
 圖1
 ![image](https://github.com/hsiaotingg/data-visualization/blob/main/Oracle/basic.png)
-圖1中可以觀察到：<br> 1. 該公司男女比例蠻平均<br> 2. Engineering部門人數最多，其次為Accounting，且設有Sales部門，推測可能是間做會計相關的資訊公司<br> 3. 員工以白人為主，但也有其他不同族群的員工<br>
+圖1中可以觀察到：<br> 1. 該公司男女比例蠻平均<br> 2. Engineering部門人數最多，其次為Accounting，且設有Sales部門，推測可能是間提供財會資訊服務相關的公司<br> 3. 員工以白人為主，但也有其他不同族群的員工<br>
 <br>
 圖2
 ![image](https://github.com/hsiaotingg/data-visualization/blob/main/Oracle/operation-1.png)
@@ -31,5 +31,6 @@ Oracle Analytics 這部分老師並未授課教學使用，僅提供資料讓學
 <br>
 圖5
 ![image](https://github.com/hsiaotingg/data-visualization/blob/main/Oracle/location-1.png)
-
-透過資料可以看出這間公司主要在美國，其分公司或是辦公室集中在ohio州
+圖6
+![image](https://github.com/hsiaotingg/data-visualization/blob/main/Oracle/map.png)
+透過圖6的地圖可以看出該公司服務據點主要分布在北美五大湖工業區附近7個州(伊利諾州、印第安納州、肯塔基州、密西根州、俄亥俄州、賓夕法尼亞州、威斯康辛州)，根據圖5可知俄亥俄州的員工人數是最多的，可能是總部或是主要服務重心。五大湖工業區是美國商業、金融與工業中心重鎮，更能印證該公司可能是提供財會相關的資訊服務。因為是經濟高度發展區，故人口的種族組成較多元，但仍是以白人為主。
