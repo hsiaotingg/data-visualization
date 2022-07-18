@@ -31,7 +31,7 @@ Oracle Analytics會自動辨別欄位資料型態，使用者可視需求先檢�
 ![image](https://github.com/hsiaotingg/data-visualization/blob/main/Oracle/pic_for_use/use8.png)
 ![image](https://github.com/hsiaotingg/data-visualization/blob/main/Oracle/pic_for_use/use9.png)
 一個工作區可同時放多張圖表，在不選取任何已有的圖表時，從左側再次選擇要處理的欄位拖曳到下圖灰色區塊，就可以再新增圖表並可調整大小，讓多張圖片可同時呈現在一個工作區<br>
-如果製圖中發現欄位資料需再調整，可以點選紅色框框[資料]再去設定(可參考[3.資料處理](3.資料處理))<br>
+如果製圖中發現欄位資料需再調整，可以點選紅色框框[資料]再去設定(可參考3.資料處理)<br>
 p.s Oracle Analytics使用中不時會當掉，建議每次做完圖表順手存檔！
 ![image](https://github.com/hsiaotingg/data-visualization/blob/main/Oracle/pic_for_use/use10.png)
 
