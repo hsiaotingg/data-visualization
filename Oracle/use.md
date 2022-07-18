@@ -1,6 +1,6 @@
 ## 如何使用Oracle Analytics
 ### 1. 下載Oracle Analytics Desktop
-進入官網並確認硬體設備(要求蠻高的，較低階文書機可能跑不動XD)，並點選download
+進入官網並確認硬體設備(較低階文書機可能跑不動，建議要確認！)，並點選download
 [官網連結](https://www.oracle.com/tw/solutions/business-analytics/analytics-desktop/oracle-analytics-desktop.html)
 ### 2. 匯入資料
 下載並安裝完畢後，開啟Oracle Analytic Desktop，點選[建立]，選擇[資料集]。<br>
